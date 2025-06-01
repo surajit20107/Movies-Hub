@@ -15,9 +15,10 @@ Movies Hub is your gateway to endless entertainment. Download the official Movie
 
 ## 🚀 Get Started
 
-1. Click the "Download App" button
-2. Download the Movies Hub APK
-3. Install and enjoy streaming!
+1. Visit [Movies Hub](https://movieshub-premium.vercel.app) website
+2. Click the "Download App" button
+3. Download the Movies Hub APK
+5. Install and enjoy streaming!
 
 ## 📱 Features
 
