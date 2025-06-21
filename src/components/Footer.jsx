@@ -58,7 +58,7 @@ const Footer = () => {
             <FaTwitter />
           </a>
           <a
-            href="https://linkedin.com/in/yourhandle"
+            href="https://linkedin.com/in/surajit-jana20107"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-transform transform hover:scale-110"
